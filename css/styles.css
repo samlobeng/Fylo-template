@@ -1,0 +1,169 @@
+body{
+    margin-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400px;
+}
+.navbar{
+
+}
+.menu-items{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px;
+    padding: 14px 16px;
+    color: #5068a9;
+    
+}
+li {
+    float: right;
+  }
+.logo{
+    display: inline-block;
+    margin-top: 20px;
+    position: relative;
+    top: 10px;
+}
+.top-container{
+    margin: 10% auto;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    width: 30.5%;
+    font-weight: 400;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+}
+#see{
+    font-family: 'Raleway', sans-serif;
+    color: #359768;
+
+
+}
+.arrow{
+    margin-left: 10px;
+    position: absolute;
+
+
+}
+.intro{
+    width: 40%;
+}
+
+.illustration-image{
+    width: 35%;
+    float: right;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+}
+.illustration-image2{
+    width: 35%;
+    float: right;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    float: right;
+}
+input[type=email] {
+    border: 2px solid #66bfbf;
+    border-radius: 5px;
+    width: 15%;
+    padding: 10px;
+}
+input[type=email].mail {
+    border: 2px solid #66bfbf;
+    border-radius: 5px;
+    width: 25%;
+    padding: 10px;
+    position: absolute;
+    left: 60%;
+    bottom: 60%;
+}
+
+.btn{
+    border-radius: 4px;
+    margin: 30px;
+    border: 1px solid #0c81f6;
+    background-color: #0c81f6;
+    color: white;
+    padding: 5px 30px;
+    text-decoration: none;
+}
+
+.btn2{
+    border-radius: 4px;
+    margin: 30px;
+    border: 1px solid #0c81f6;
+    background-color: #0c81f6;
+    color: white;
+    padding: 5px 30px;
+    text-decoration: none;
+    position: absolute;
+    left: 58%;
+    bottom: 30%;
+    
+}
+.bgimage{
+    position: absolute;
+    top: 50%;
+    margin: 100px;
+}
+.middle-container{
+  
+}
+.quote{
+    height: 150px;  
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color: white;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.final{
+    background-color: #7f78d2;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    position: absolute;
+    left: 0;
+    width: 90%;
+    color: white;
+}
+.bottom-container{
+    position: absolute;
+    top: 174%;
+    background-color: midnightblue;
+    padding: 50px;
+    margin-left: 50px;
+    left: 0;
+    width: 90%;
+    height: 20%;
+}
+.footer-link{
+    display: block;
+    text-decoration: none;
+    
+    line-height: 20px;
+    color: white;
+    font-size: 10px;
+}
+.stuffs{
+    margin-left: 40%;
+}
+.second{
+    margin-left: 30px;
+
+}
